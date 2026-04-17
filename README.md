@@ -1,6 +1,6 @@
 # zsh-nvim
 
-[oh-my-zsh plugin](https://github.com/robbyrussell/oh-my-zsh) for those who are migrating from [vim](https://github.com/vim/vim) to [nvim](https://github.com/neovim/neovim).
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) plugin for those who are migrating from [vim](https://github.com/vim/vim) to [nvim](https://github.com/neovim/neovim).
 
 ## Prerequisites
 
